@@ -1,7 +1,7 @@
 /* Variables */
 :root {
 	--primary: #EA40A4;
-	--business: #3a82ee;
+	--business: ##00FFFF;
 	--personal: var(--primary);
 	--light: #EEE;
 	--grey: #888;
@@ -10,7 +10,7 @@
 
 	--shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
 
-	--business-glow: 0px 0px 4px rgba(58, 130, 238, 0.75);
+	--business-glow: 0px 0px 4px rgba(0, 255, 255, 0.75);
 	--personal-glow: 0px 0px 4px rgba(234, 64, 164, 0.75);
 }
 /* End of Variables */
