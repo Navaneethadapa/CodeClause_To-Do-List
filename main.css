@@ -1,7 +1,7 @@
 /* Variables */
 :root {
 	--primary: #EA40A4;
-	--business: ##00FFFF;
+	--business: #00FFFF;
 	--personal: var(--primary);
 	--light: #EEE;
 	--grey: #888;
